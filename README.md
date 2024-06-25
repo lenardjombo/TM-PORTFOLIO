@@ -20,7 +20,7 @@ This project is licensed under the MIT License. You are free to use and modify t
 # Contact
 For any inquiries or feedback ,please contact:
 <h5>Jombo</h5>:[Jombo@gmail.com]
-You can also follow [https://ke.linkedin.com/in/leonard-jombo-7063a3254]
+You can also follow https://ke.linkedin.com/in/leonard-jombo-7063a3254
 
 # Live Demo 
-[https://mawora.netlify.app]
+https://mawora.netlify.app
