@@ -23,4 +23,4 @@ For any inquiries or feedback ,please contact:
 You can also follow [https://ke.linkedin.com/in/leonard-jombo-7063a3254]
 
 # Live Demo 
-[mawora.netlify.app]
+[https://mawora.netlify.app]
