@@ -18,7 +18,8 @@ Welcome to he GitHub repository of TMawora's Portfolio.This project showcases Ma
 This project is licensed under the MIT License. You are free to use and modify the code for personal or commercial use, but please provide appropriate credit.
 
 # Contact
-For any inquiries or feedback ,please contact at jombo@gmail.com:
+For any inquiries or feedback ,please contact at jombo@gmail.com
+
 You can also follow https://ke.linkedin.com/in/leonard-jombo-7063a3254
 
 # Live Demo 
