@@ -28,7 +28,7 @@
   --small-font-size: .813rem;
   --smaller-font-size: .75rem;
 
-  /*===== Margenes =====*/
+  /*===== Margins =====*/
   --mb-1: .5rem;
   --mb-2: 1rem;
   --mb-3: 1.5rem;
@@ -285,36 +285,7 @@ img{
 .skills__name{
   text-transform: capitalize;
 }
-.skills__bar{
-  position: absolute;
-  bottom: -.75rem;
-  height: .25rem;
-  background-color: var(--first-color);
-}
-.skills__html{
-  width: 80%;
-}
-.skills__js{
-  width: 90%;
-}
-.skills__react{
-  width: 60%;
-}
-.skills__angular{
-  width: 80%;
-}
-.skills__php{
-  width: 80%;
-}
-.skills__node{
-  width: 80%;
-}
-.skills__python{
-  width: 80%;
-}
-.skills__firebase{
-  width: 80%;
-}
+
 /* ===== EDUCATION =====*/
 .education__container{
   row-gap: 2rem;
